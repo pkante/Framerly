@@ -1,0 +1,2 @@
+# Framerly
+Agentic Video Editor
