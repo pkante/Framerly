@@ -1,2 +1,2 @@
 # Framerly
-Agentic Video Editor
+Building an Agentic Video Editor
